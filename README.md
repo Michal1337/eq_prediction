@@ -9,7 +9,7 @@ Repository for earthquake prediction project.
 
 ## Majkel TODO:
 1. Te same modele dla drugiego zbioru danych
-2. Ogarnąć threshold, timesplit, geosplit, minimalny magnitude na label, potrzebna opinia eksperta XD
+2. Ogarnąć threshold, timesplit, geosplit, minimalny magnitude na label, potrzebna opinia eksperta XD (+ czy może trzeba cytować jakieś prace przy okazji ustalania stałych)
 3. 2 OMEGA MODELE - embeddinngi trzęsień z conv na spectogramie (i inne feature z łatwiejszych modeli). 2 wersje - dodwanie embeddingow na tym sam
 timestepie, embeddingi przerw
 
