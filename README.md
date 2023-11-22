@@ -3,7 +3,7 @@ Repository for earthquake prediction project.
 
 ## PIPELINE:
 1. utils/get_data.ipynb - downloads data (~2h, many requests)
-2. utils/add_features.ipynb - filters data and adds features and labels (~30min)
+2. utils/add_features.ipynb - filters data and adds features and labels (~5h)
 3. utils/make_npys.ipynb - makes .npy files for each region (~30min)
 4. utils/make_datasets.ipynb - transforms .npy files into tf.Dataset (~50min)
 5. utils/merge_datasets.ipynb - merges datasets into one (~30min)

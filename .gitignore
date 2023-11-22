@@ -4,6 +4,12 @@ usgs_data_small.csv
 with_features.csv
 data/npys
 data/datasets
-data/ds_train
-data/ds_val
-data/ds_test
+data/csvs
+data/ds_final_train
+data/ds_final_val
+data/ds_final_test
+data/ds_final_train_old
+data/ds_final_val_old
+data/ds_final_test_old
+data/with_features_final.csv
+data/feature_distribution.csv
