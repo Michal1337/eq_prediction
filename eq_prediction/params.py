@@ -59,6 +59,9 @@ INPUT_DIRECTORY: str = "../data/npys/"
 OUTPUT_DIRECTORY: str = "../data/datasets/"
 
 # Model parameters
+D_MODEL: int = 126
+NUM_LAYERS: int = 2
+NUM_HEADS: int = 2
 
 # Training parameters
 BATCH_SIZE: int = 1024
