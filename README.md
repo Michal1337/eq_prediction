@@ -1,4 +1,4 @@
-# eq_prediction
+# eq-prediction
 
 Repository for my BSc thesis titled: `Seismic activity prediction with neural networks`. \
 Author: `Michał Gromadzki` \
@@ -31,6 +31,7 @@ The following image presents the preview of the website along with the model pre
 3. `./src/make_npys.py` - Makes .npy files for each region (~30min)
 4. `./src/make_datasets.py` - Transforms .npy files into tf.Dataset (~50min)
 5. `./src/merge_datasets.py` - Merges datasets into one (~30min)
+
 
 
 
